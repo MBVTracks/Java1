@@ -7,7 +7,7 @@ public class ej1 {
 
 
 
-
         System.out.println("Cambio en master");
+
     }
 }
